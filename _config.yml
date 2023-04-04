@@ -17,10 +17,10 @@ people:
       url: #
     - title: facebook
       url: #
-    - title: stack-overflow
-      url: #
+    - title: github
+      url: http://github.com/wldnjs0656
 
-- name: Jo WonHong
+- name: Cho WonHong
   pic: 2
   position: Full-Stack Developer
   social:
@@ -28,8 +28,8 @@ people:
       url: #
     - title: facebook
       url: #
-    - title: linkedin
-      url: #
+    - title: instagram
+      url: https://www.instagram.com/hong_cho_99/
 
 - name: Yun EunBi
   pic: 3
