@@ -9,9 +9,9 @@ description: "jonghyeon99 blog's"
 
 # Team names, titles and social links
 people:
-- name: jonghyeon99
+- name: Shin JiWon
   pic: 1
-  position: Lead Designer
+  position: Full-Stack Developer
   social:
     - title: twitter
       url: #
@@ -20,9 +20,9 @@ people:
     - title: stack-overflow
       url: #
 
-- name: jonghyeon99
+- name: Jo WonHong
   pic: 2
-  position: Lead Marketer
+  position: Full-Stack Developer
   social:
     - title: twitter
       url: #
@@ -31,9 +31,9 @@ people:
     - title: linkedin
       url: #
 
-- name: jonghyeon99
+- name: Yun EunBi
   pic: 3
-  position: Lead Developer
+  position: Full-Stack Developer
   social:
     - title: twitter
       url: #
