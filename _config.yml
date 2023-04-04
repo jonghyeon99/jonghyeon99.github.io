@@ -37,8 +37,8 @@ people:
   social:
     - title: twitter
       url: #
-    - title: facebook
-      url: #
+    - title: instagram
+      url: https://www.instagram.com/eung.__.bee/
     - title: google-plus
       url: #
 
@@ -48,8 +48,6 @@ social:
     url: https://www.instagram.com/trav.hyeon/
   - title: facebook
     url: https://www.facebook.com/people/%EC%8B%A0%EC%A2%85%ED%98%84/pfbid02XJs3zK3y5USWpwSbzgTuzMJJw73B5WuSAvgaoiCCEs9Lozi2j6AXNaW6jLPnY59tl/
-  - title: bitbucket 
-    url: http://bitbucket.org/
   - title: github
     url: http://github.com/jonghyeon99
 
