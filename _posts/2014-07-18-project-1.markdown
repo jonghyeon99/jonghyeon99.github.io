@@ -1,5 +1,5 @@
 ---
-title: Myshop
+title: My Shop
 subtitle: Website Design
 layout: default
 modal-id: 1
