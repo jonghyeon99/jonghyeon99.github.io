@@ -44,16 +44,14 @@ people:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
+  - title: instagram
+    url: https://www.instagram.com/trav.hyeon/
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
+    url: https://www.facebook.com/people/%EC%8B%A0%EC%A2%85%ED%98%84/pfbid02XJs3zK3y5USWpwSbzgTuzMJJw73B5WuSAvgaoiCCEs9Lozi2j6AXNaW6jLPnY59tl/
   - title: bitbucket 
-    url: http://bitbucket.org/jekyll
+    url: http://bitbucket.org/
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.com/jonghyeon99
 
 # Postal address (add as many lines as necessary)
 address:
