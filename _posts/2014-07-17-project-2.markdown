@@ -3,7 +3,7 @@ title: Flower Shop
 subtitle: Website Design
 layout: default
 modal-id: 2
-date: 2023-03-20
+date: {}
 img: emem.png
 thumbnail: emem-thumbnail.png
 alt: image-alt
@@ -11,5 +11,5 @@ project-date: March 2023
 client: Start Bootstrap
 category: Web Development
 description: FlOWERSHOP
-
 ---
+https://jonghyeon99.github.io/myshop.github.io/
